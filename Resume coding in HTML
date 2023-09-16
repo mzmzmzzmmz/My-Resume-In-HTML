@@ -1,0 +1,151 @@
+<html lang="en">
+<head>
+    <title>ZUBIAR AHMAD QURESHI ( RESUME)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f8f7;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #f4d9f8;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            text-align: center;
+            color: #8f0712;
+        }
+
+        .section {
+            margin-bottom: 10px;
+        }
+
+        .section h2 {
+            color: #047c5e;
+        }
+
+        .section p {
+            line-height: 1.5;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+
+        .contact-info {
+            text-align: left;
+        }
+
+        .contact-info a {
+            text-decoration: none;
+            color: #1c0794;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="C:\Users\AL Mayed M School\Desktop\123.jpg" alt="ZAQ">
+           <Marquee>   <B>  <H1> MY RESUME </H1> </B> <BR></Marquee> 
+                       <B>  <H1> ZUBAIR AHMAD QURESHI</H1> </B> 
+         <U> <center> <B> <H> Teaching - Social Worker - Administrator -  </H></B></center></U>
+           <U>  <h1>ABOUT ME  </h1> </U>
+            <p> Strong leader and problem-solver dedicated to streamlining
+                operator to decrease costs and promote organizational
+                efficiency. Uses independent decision-making skills and sound
+                judgment to positively impact company success.</p>
+        </header>
+        
+        <div class="section">
+           <u> <b>  <h2>Contact Information</h2> </b></u>
+            <p class="contact-info">
+                Email: <a href="mailto:almayeda_school@email.com">almayeda_school@yahoo.com</a><br>
+                Phone: (+92) 312-90341...<br>
+                LinkedIn: <a href="https://www.linkedin.com/in/zubair-ahmed-qureshi-94541a290/">LinkedIn Profile</a>
+
+           </p>
+        </div>
+        
+        <div class="section">
+          <U> <B>   <h2>MY Education </h2> </U></B>
+            <p>Diploma in Information Technology: IT
+                <B> Cecos Data Institute Peshawar (BTE Peshawar) </B></p>
+                <p> Diploma in Microsoft System Engineer :M.C.S.E
+                    <b> Cecos Data Institute Peshawar (BTE Peshawar) </b> </p> 
+                <P> Master in Art’s Islamiyat
+                   <b> University of Peshawar </b>  </P>
+                <P> Master in Art’s URDU
+                    <b> AIOU</b> </P>
+                <P> MSC Journalism in Study <b>AIOU </b> </P>
+                <P> Bachelor in Art’s
+                    <b> University of Peshawar </b></P>  
+                    <P> Bachelor in Mass Comumnication’s
+                        <b> AIOU </b></P>
+                <P> Diploma in Commerce
+                    <b> Muslim College of Commerce (BTE Peshawar) </b></P>
+                    <P>  SSC: Science Education
+                       <b>  Municipal Inter College (BISE PESHAWAR) </b></P>
+        </div>
+        
+        <div class="section">
+           <U>  <h2> <B>  Experience</B></h2></U>
+            <ul>
+                <li>
+                    <strong>Education Deppt </strong> Admin <br>
+                    <br>
+                    Differernt  responsibilities and achievements.
+                </li>
+                
+            </ul>
+            <ul>
+                <li>
+                    <strong>National Testing Servicer (NTS) </strong> Chief Supervoiser <br>
+                    <br>
+                    Differernt  responsibilities in kpk.
+                </li>
+                
+            </ul>
+            <ul>
+                <li>
+                    <strong>Barkat Foods Pvt Ltd, Peshawar </strong> IT Officer <br>
+                    <br>
+                    Differernt  responsibilities in head office Related Company Software .
+                </li>
+                
+            </ul>
+            <ul>
+                <li>
+                    <strong>Haward medicine Peshawar </strong> Computer Operator <br>
+                    
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+        <div class="section">
+           <U><B>  <h2>Languages </h2></B></U>
+            <ul>
+                <li>
+                    <strong>Urdu</strong> <br>
+                    <strong>English</strong> <br>
+                    <strong>Hindko </strong> <br>
+                    <strong>Punjabi</strong> <br>
+                    <strong>Pashto</strong> <br>
+                </li>
+             </ul>
+        </div>
+    </div>
+</body>
+</html>
